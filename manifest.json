@@ -1,0 +1,49 @@
+{"name": "Mobile-Store",
+  "short_name": "M-Store",
+  "theme_color": "blue",
+  "background_color": "#eeeeee",
+  "display": "standalone",
+  "start_url": "/static/pagina-home.html",
+  "icons": [
+    {
+      "src": "/static/logo144X144.png/144x144Icon.png",
+      "type": "image/png",
+      "sizes": "144x144"
+
+
+    },
+    {
+      "src": "/static/logo144X144.png/144x144Icon.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/static/logo196X196.png/196x196Icon.png",
+      "type": "image/png",
+      "sizes": "196x196",
+      "purpose": "any maskable"
+
+
+    },
+    {
+      "src": "/static/logo196X196.png/196x196Icon.png",
+      "type": "image/png",
+      "sizes": "196x196"
+
+    },
+    {
+      "src": "/static/logo512X512.png/512x512Icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+
+
+    },
+    {
+      "src": "/static/logo512X512.png/512x512Icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+
+
+    }
+  ]
+}
